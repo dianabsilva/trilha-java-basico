@@ -1,3 +1,5 @@
+### Diagrama UML (Mermaid)
+```mermaid
 classDiagram
 class iPhone 
 iPhone <|-- ReprodutorMusical
@@ -40,3 +42,4 @@ GoogleMaps: +verDirecao()
 Email: +enviarEmail()
 Email: +receberEmail()
 Navegador: +acessarSite()
+```
